@@ -1,2 +1,4 @@
-# proj1-CDA4101
-Structured Computer Organization - Project 1
+Simulate a cache.
+
+This program, written in Java, will determine if a certain address is a miss or
+a hit.
